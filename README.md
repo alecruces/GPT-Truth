@@ -17,5 +17,5 @@ Methods
 *  Python
   
 ## Files  
-•	Code
-•	Report
+*	Code
+*	Report
