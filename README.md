@@ -20,6 +20,6 @@ Methods
 *  Python
   
 ## Files  
-*	Code: `GPT_3_5_Opinioni_Scenario1.ipynb`
+
 *	Report: `Report.pdf`
 *	Presentation: `Presentation.pdf`
